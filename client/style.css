@@ -109,6 +109,11 @@ p{
 {
   color: #68686878;
   margin-left: 4.5rem;
+  transition: 0.5s ease-in-out;
+
+}
+.para:hover{
+  color: white;
 }
   
 #chat_container {
